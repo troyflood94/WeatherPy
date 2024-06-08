@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "python-api-challenge",
+			"path": "."
+		},
+		{
+			"name": "output_data",
+			"path": "../../Starter_Code/output_data"
+		}
+	],
+	"settings": {}
+}
